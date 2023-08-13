@@ -1,0 +1,23 @@
+
+*{ 
+    margin: 0; 
+    padding: 0; 
+} 
+div{ 
+    display: block; 
+    background-color: #a25b9a; 
+    margin: 10px  5px 0 5px; 
+} 
+body{ 
+    font-family: Verdana,Arial, Helvetica, sans-serif; 
+    color: #5c577e; 
+    background-color: #fff; 
+    font-size: 10px; 
+    height: auto; 
+    padding: 10px 0; 
+ 
+} 
+:root{ 
+    --awards_color: #180e17; 
+    --followers_color: #763B6F; 
+}
