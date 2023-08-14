@@ -1,0 +1,32 @@
+.encabezado{ 
+    display: flex; 
+    background-color: rgb(162, 91, 154); 
+    margin: 10px  5px 0 5px; 
+    border-radius: 8px;
+} 
+.fondo_de_enlace{
+    display: block; 
+    background-color: rgb(222, 210, 227); 
+    margin: 10px  5px 0 5px; 
+    border-radius: 8px;
+}
+.enlaces a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(90, 45, 108);
+    display: inline-flex;
+    align-items: center;
+}
+.ico-miembros{
+    background-repeat: no-repeat;
+    background-size: 15px 15px;
+    padding-left: 15px;
+}
+.button-buscar{
+    padding: 2px 2px;
+    font-size: 11px;
+    margin-left: 1280px;
+}
