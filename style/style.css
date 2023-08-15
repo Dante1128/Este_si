@@ -21,3 +21,25 @@ body{
     --awards_color: #180e17; 
     --followers_color: #763B6F; 
 }
+
+.a{
+    background-color: #763B6F;
+}
+.b{
+    background-color: aqua;
+}
+.c{
+    background-color: blue;
+}
+.d{
+    background-color: brown;
+}
+.e{
+    background-color: chocolate;
+}
+.f{
+    background-color: darkolivegreen;
+}
+.g{
+    background-color: deeppink;
+}
