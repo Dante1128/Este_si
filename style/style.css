@@ -28,9 +28,23 @@ body{
 .b{
     background-color: aqua;
 }
-.c{
-    background-color: blue;
+.contenedorT{
+    margin-bottom: 4px;
+    clear: both;
+    background-color: #763B6F;
+    background-image: url(https://2img.net/i/fa/prosilver_magenta/bg_list.gif);
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    border: 2px solid #fff;
+    padding: 0 5px;
 }
+.prueva{
+    background-color: aqua;
+    left: 50px;
+}
+
+
+
 .d{
     background-color: brown;
 }
