@@ -38,10 +38,69 @@ body{
     border: 2px solid #fff;
     padding: 0 5px;
 }
-.prueva{
-    background-color: aqua;
-    left: 50px;
+span.contenedor-top{
+    background-image: url(https://2img.net/i/fa/prosilver/corners_left.gif);
+    background-position: 0 0;
+    margin: 0 -5px;
+    font-size: 1px;
+    line-height: 1px;
+    display: block;
+    height: 5px;
+    background-repeat: no-repeat;
 }
+ul.listaTemas{
+    list-style-type: none;
+    margin: 0;
+    background-image: url(https://2img.net/i/fa/empty.gif);
+    background-repeat: repeat-x;
+    color: #5c577e;
+}
+li.header dl.icon{
+    min-height: 0;
+}
+dl.icon{
+    background-position: 10px 50%;
+    background-repeat: no-repeat;
+    height: auto;
+}
+.tabla-titulo, .tabla-titulo h2{
+    display: inline;
+    font-size: 1em;
+    color: #fff;
+}
+
+
+ul.listaTemas li.header dl dd {
+    border: none;
+}
+ul.listaTemas dd {
+    border-left: 1px solid #fff;
+    display: block;
+    float: left;
+    padding: 4px 0;
+}
+li.header dt, li.header dd {
+    line-height: 1em;
+    border-left-width: 0;
+    margin: 2px 0 4px;
+    color: #a50606;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 1em;
+    font-family: Arial,Helvetica,sans-serif,Verdana,Arial,Helvetica,sans-serif;
+    text-transform: uppercase;
+}
+li.header dd {
+    margin-left: 1px;
+}
+dd.posts, dd.topics, dd.views {
+    width: 8%;
+    text-align: center;
+    line-height: 2.2em;
+    font-size: 1.2em;
+    border: none;
+}
+
 
 
 
