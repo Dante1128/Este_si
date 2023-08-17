@@ -41,6 +41,10 @@ body{
     background-color: darkolivegreen;
 }
 .g{
-    background-color: white;
-    
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #5C577E;
+    background-color: #fff;
+    background-attachment: scroll;
+    font-size: 10px;
+    height: auto;
 }
