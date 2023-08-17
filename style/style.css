@@ -27,25 +27,60 @@ body{
 }
 .tablaTitulos{
     background-color: #a25b9a;
+    display: flex;
 }
 h2{
     color: #fff;
+    font-size: 10px;
 }
 dd.listado{
     background-repeat: no-repeat;
     background-position: 5px 50%;
 }
-dd.temas{
+.temas{
     color: #fff;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 100px ;
     
-    
-    
-    
+      
 }
 ul.listado{
     margin:0%;
 }
-dd{
-    display: block;
-    margin-inline-start: 40px;
+.mensajes{
+    color: #fff;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 60px ;
+
+}
+.ultimensaje{
+    color: #fff;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 50px ;
+
+}
+ul.foro{
+    background-color: #F4EFF4;
+    background-image : none;
+}
+li.row{
+    background-color: #F4EFF4;
+}
+h3{
+    background-color: #F4EFF4;
+}
+.articulosemana{
+    background-color: #F4EFF4;
+}
+.fondoicon{
+    background-color: #F4EFF4;
+}
+.moderador{
+    color: #a25b9a;
 }
