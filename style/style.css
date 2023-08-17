@@ -41,6 +41,13 @@ body{
 .encabezado{
     background-color: #a25b9a;
 }
+.encabezado_titulo{
+    background-color: #a25b9a;
+    display: flex;
+}
+.subtitulos{
+    margin-left: 300px;
+}
 
 /*fin*/
 .f{
