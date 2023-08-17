@@ -124,6 +124,7 @@ dd.posts, dd.topics, dd.views {
 .fot{
     background-color: rgb(244,239,244);
     
+    
 }
 #txt_chub{
     display: inline-block;
@@ -136,16 +137,18 @@ dd.posts, dd.topics, dd.views {
 
 }
 #imags{
+    margin: 15px;
+    display: inline-block;
     background-color: rgb(244,239,244);
     width: 300px;
-    height: 150px;
+    height: 200px;
 }
 #img_f1{
     width: 300px;
-    height: 100px;
+    height: 120px;
     overflow: hidden;
     position: relative;
-    box-shadow: 5px 8px 12px black;   
+    box-shadow: 5px 8px 12px rgb(87, 79, 79);   
 }
 #txt_chub2{
     display: inline-block;
@@ -158,16 +161,118 @@ dd.posts, dd.topics, dd.views {
 
 }
 #imags2{
+    margin: 15px;
+    display: inline-block;
     background-color: rgb(244,239,244);
     width: 300px;
     height: 150px;
 }
 #img_f2{
     width: 300px;
-    height: 100px;
+    height: 170px;
     overflow: hidden;
     position: relative;
-    box-shadow: 5px 8px 12px black;   
+    box-shadow: 5px 8px 12px rgb(87, 79, 79);   
+}
+#txt_chub3{
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    font-size: 1rem;
+    color: green;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50% -50%);
+
+}
+#imags3{
+    margin: 15px;
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    width: 300px;
+    height: 150px;
+    
+}
+#img_f3{
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 8px 12px rgb(87, 79, 79);   
+}
+#txt_chub4{
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    font-size: 1rem;
+    color: green;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50% -50%);
+
+}
+#imags4{
+    margin: 15px;
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    width: 200px;
+    height: 100px;
+    
+}
+#img_f4{
+    width: 400px;
+    height: 160px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 8px 12px rgb(87, 79, 79);   
+}
+#txt_chub5{
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    font-size: 1rem;
+    color: green;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50% -50%);
+
+}
+#imags5{
+    margin: 0px 70px 30px 20px;
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    width: 300px;
+    height: 100px;
+    
+}
+#img_f5{
+    width: 400px;
+    height: 160px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 8px 12px rgb(87, 79, 79);   
+}
+#txt_chub6{
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    font-size: 1rem;
+    color: green;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50% -50%);
+
+}
+#imags6{
+    margin: 50px;
+    display: inline-block;
+    background-color: rgb(244,239,244);
+    width: 300px;
+    height: 150px;
+    
+}
+#img_f6{
+    width: 400px;
+    height: 160px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 8px 12px rgb(87, 79, 79);   
 }
 .f{
     background-color: darkolivegreen;
