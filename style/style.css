@@ -17,7 +17,17 @@ body{
     padding: 10px 0; 
  
 } 
+:root{ 
+    --awards_color: #180e17; 
+    --followers_color: #763B6F; 
+}
 
+.a{
+    background-color: #763B6F;
+}
+.b{
+    background-color: aqua;
+}
 .contenedor{
     background-color: #a25b9a;
     
@@ -36,36 +46,26 @@ h2{
 dd.listado{
     background-repeat: no-repeat;
     background-position: 5px 50%;
-    background-position: 5px 50%;
 }
 .temas{
     color: #fff;
-}
-
-
-ul.listaTemas li.header dl dd {
-    border: none;
-}
-ul.listado{
-    margin:0%;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 100px ;
+    
+      
 }
 ul.listado{
     margin:0%;
 }
-li.header dt, li.header dd {
-    line-height: 1em;
-    border-left-width: 0;
-    margin: 2px 0 4px;
-    color: #a50606;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    font-size: 1em;
-    font-family: Arial,Helvetica,sans-serif,Verdana,Arial,Helvetica,sans-serif;
-    text-transform: uppercase;
-}
-.ultimensaje{
+.mensajes{
     color: #fff;
     margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 60px ;
+
 }
 .ultimensaje{
     color: #fff;
@@ -85,9 +85,6 @@ li.row{
 h3{
     background-color: #F4EFF4;
 }
-h3{
-    background-color: #F4EFF4;
-}
 .articulosemana{
     background-color: #F4EFF4;
 }
@@ -97,4 +94,5 @@ h3{
 .moderador{
     color: #a25b9a;
 }
+
 
