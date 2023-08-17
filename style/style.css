@@ -7,7 +7,7 @@ div{
     display: block; 
     background-color: #a25b9a; 
     margin: 10px  5px 0 5px; 
-} 
+}
 body{ 
     font-family: Verdana,Arial, Helvetica, sans-serif; 
     color: #5c577e; 
@@ -115,4 +115,37 @@ dd.posts, dd.topics, dd.views {
 }
 .g{
     background-color: deeppink;
+}
+.piedepagina{
+    background-color:white;
+    color: #a25b9a;
+    font-size: 12px;
+    border-bottom: 1px solid  #763B6F;
+}
+#enlacesinsubrayado
+{
+    text-decoration: none;
+}
+.parrafo
+{
+    padding-left: 7px;
+    background-color:white;
+}
+.parrafoo
+{
+    padding-left: 7px;
+    background-color:white;
+}
+.parrafooo
+{
+    padding-left: 7px;
+    background-color:white;
+}
+.parteusuario
+{
+    padding-left: 30px;
+    background-color:#E0DBDA;
+}
+.usuarioo{
+    background-color:#E0DBDA;
 }
