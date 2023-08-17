@@ -53,16 +53,6 @@ body{
 {
     text-decoration: none;
 }
-.g{
-    border-bottom: 1px solid  #763B6F;
-    background-color:white;
-    color: #a25b9a;
-    font-size: 12px;
-}
-#enlacesinsub
-{
-    text-decoration: none;
-}
 .tex{
     font-family: Verdana,Arial,Helvetica,sans-serif;
     color: #5A2D6C;
@@ -70,4 +60,18 @@ body{
     background-attachment: scroll;
     font-size: 10px;
     height: auto;
+}
+#sinsub{
+    text-decoration: none;
+}
+.tex2{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #5A2D6C;
+    background-color: #fff;
+    background-attachment: scroll;
+    font-size: 10px;
+}
+#enlacessin{
+    text-decoration: none;
+    color: #000099;
 }
