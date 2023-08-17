@@ -42,7 +42,30 @@ body{
 }
 .g{
     font-family: Verdana,Arial,Helvetica,sans-serif;
-    color: #5C577E;
+    color: #5A2D6C;
+    background-color: #fff;
+    background-attachment: scroll;
+    font-size: 10px;
+    height: auto;
+    border-bottom: 1px solid #763B6F;
+}
+#enlacesinsub
+{
+    text-decoration: none;
+}
+.g{
+    border-bottom: 1px solid  #763B6F;
+    background-color:white;
+    color: #a25b9a;
+    font-size: 12px;
+}
+#enlacesinsub
+{
+    text-decoration: none;
+}
+.tex{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #5A2D6C;
     background-color: #fff;
     background-attachment: scroll;
     font-size: 10px;
