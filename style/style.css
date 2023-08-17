@@ -35,6 +35,9 @@ body{
     background-color: brown;
 }
 /*mabel*/
+.divirtiendonos{
+    background-color: #a25b9a;
+}
 .tablas{
     background-color: #a25b9a;
 }
@@ -46,7 +49,7 @@ body{
     display: flex;
 }
 .subtitulos{
-    margin-left: 50px;
+    margin-left: 300px;
 }
 
 h2{
@@ -67,7 +70,41 @@ dd.listado{
 ul.listado{
     margin:0%;
 }
+.mensajes{
+    color: #fff;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 60px ;
 
+}
+.ultimensaje{
+    color: #fff;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 50px ;
+
+}
+ul.foro{
+    background-color: #F4EFF4;
+    background-image : none;
+}
+li.row{
+    background-color: #F4EFF4;
+}
+h3{
+    background-color: #F4EFF4;
+}
+.articulosemana{
+    background-color: #F4EFF4;
+}
+.fondoicon{
+    background-color: #F4EFF4;
+}
+.moderador{
+    color: #a25b9a;
+}
 /*fin*/
 .f{
     background-color: darkolivegreen;
