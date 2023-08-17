@@ -143,9 +143,18 @@ dd.posts, dd.topics, dd.views {
 }
 .parteusuario
 {
-    padding-left: 30px;
+    display: flex;
+    justify-content: center;
+    
     background-color:#E0DBDA;
 }
 .usuarioo{
     background-color:#E0DBDA;
 }
+.ti-connect
+{
+    display: flex;
+    justify-content: center;
+    background-color:#E0DBDA;
+}
+
