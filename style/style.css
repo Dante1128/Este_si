@@ -345,6 +345,7 @@ h3{
     background-color: darkolivegreen;
 }
 .g{
+<<<<<<< HEAD
     background-color: deeppink;
 }
 .piedepagina{
@@ -410,3 +411,39 @@ h3{
     color: #763B6F;
 }
 
+=======
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #5A2D6C;
+    background-color: #fff;
+    background-attachment: scroll;
+    font-size: 10px;
+    height: auto;
+    border-bottom: 1px solid #763B6F;
+}
+#enlacesinsub
+{
+    text-decoration: none;
+}
+.tex{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #5A2D6C;
+    background-color: #fff;
+    background-attachment: scroll;
+    font-size: 10px;
+    height: auto;
+}
+#sinsub{
+    text-decoration: none;
+}
+.tex2{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #5A2D6C;
+    background-color: #fff;
+    background-attachment: scroll;
+    font-size: 10px;
+}
+#enlacessin{
+    text-decoration: none;
+    color: #000099;
+}
+>>>>>>> lisandro
