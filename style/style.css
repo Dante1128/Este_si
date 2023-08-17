@@ -46,7 +46,26 @@ body{
     display: flex;
 }
 .subtitulos{
-    margin-left: 300px;
+    margin-left: 50px;
+}
+
+h2{
+    color: #fff;
+    font-size: 10px;
+}
+dd.listado{
+    background-repeat: no-repeat;
+    background-position: 5px 50%;
+}
+.temas{
+    color: #fff;
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 100px;  
+}
+ul.listado{
+    margin:0%;
 }
 
 /*fin*/
